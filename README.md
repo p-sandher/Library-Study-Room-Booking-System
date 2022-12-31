@@ -75,7 +75,7 @@ Puneet Sandher -  puneetsandher@gmail.com
 
 Project Link: [https://github.com/p-sandher/Library-Study-Room-Booking-System](https://github.com/p-sandher/Library-Study-Room-Booking-System)
 
-Demo Link: [https://github.com/p-sandher/Library-Study-Room-Booking-System] (https://github.com/p-sandher/Library-Study-Room-Booking-System)
+Demo Link: [https://github.com/p-sandher/Library-Study-Room-Booking-System](https://github.com/p-sandher/Library-Study-Room-Booking-System)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
