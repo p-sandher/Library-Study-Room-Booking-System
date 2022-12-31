@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website Screen Shot][product-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
+[![Project Screen Shot][product-screenshot]](https://github.com/p-sandher/Library-Study-Room-Booking-System)
 
 This is a MERN application to book study rooms in a library. This project is under construction, check back soon for new updates!
 
@@ -62,7 +62,6 @@ This is a MERN application to book study rooms in a library. This project is und
 * [![Js][Js]][Js-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -85,7 +84,7 @@ Demo Link: [https://github.com/p-sandher/Library-Study-Room-Booking-System] (htt
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Inspiration for design and code taken from the following
+Inspiration for design and code taken from the following:
 
 
 ReadME template is from 
