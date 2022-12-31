@@ -101,7 +101,7 @@ ReadME template is from
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
-[product-screenshot]: Website-Preview.png
+[product-screenshot]: library-study-room.jpeg
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
